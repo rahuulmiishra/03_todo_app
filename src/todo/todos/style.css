@@ -1,0 +1,7 @@
+.todo-list {
+  margin-top: 20px;
+}
+
+.todo-list div[data-completed-todo="true"] {
+  background-color: aqua;
+}
